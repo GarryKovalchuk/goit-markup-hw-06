@@ -266,7 +266,7 @@ ol {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  margin-bottom: 20px;
+  /*margin-bottom: 20px;*/
   /*padding-left: 157px;be deleted*/
   /*padding-right: 155px;*/
   margin-bottom: 8px;
@@ -291,7 +291,7 @@ ol {
   padding-bottom: 96px;
 }
 .section-one-list {
-  /*display: flex;*/
+  display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 72px;
