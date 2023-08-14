@@ -7,7 +7,18 @@
   .container {
     max-width: 766px;
   }
-}
-.section-one-stitle {
-  text-align: center;
+  .section-one-stitle {
+    text-align: left;
+  }
+  .text-item {
+    font-size: 16px;
+  }
+  .section-one-list {
+    row-gap: 72px;
+    column-gap: 24px;
+  }
+  .section-one-item {
+    text-align: left;
+    width: 356px;
+  }
 }
