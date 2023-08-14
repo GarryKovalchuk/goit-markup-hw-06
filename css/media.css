@@ -20,3 +20,32 @@
     width: 356px;
   }
 }
+@media screen and (min-width: 1158px) {
+  .container {
+    max-width: 1158px;
+  }
+  .section-one-list {
+    flex-basis: calc((100% - 72px) / 4);
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+  }
+  .one-item {
+    background: var(--cloud);
+    width: 264px;
+    height: 112px;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 8px;
+  }
+  .section-one-container {
+    display: flex;
+    align-content: center;
+  }
+  .section-one {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+}
