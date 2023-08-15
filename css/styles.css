@@ -32,7 +32,7 @@ body {
 /*---*/
 .container {
   /*width: 100%;*/
-  min-width: 320px;
+  /*min-width: 320px;*/
   /*max-width: 428px;*/
   padding: 0 15px 0 15px;
   margin: 0 auto;
@@ -337,6 +337,8 @@ ol {
   display: flex;
   flex-wrap: wrap;
   gap: 72px;
+  max-width: 264px;
+  margin: 0 auto;
 }
 /*.section-three-img {
   max-width: 264px;
@@ -376,6 +378,7 @@ ol {
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+  flex-basis: 100%;
 }
 .team-list {
   display: flex;
