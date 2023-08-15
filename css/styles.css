@@ -306,14 +306,6 @@ ol {
   list-style: none;
 }
 .one-item {
-  background: var(--cloud);
-  width: 264px;
-  height: 112px;
-  border-radius: 4px;
-  align-items: center;
-  justify-content: center;
-  display: flex;
-  margin-bottom: 8px;
   display: none;
 }
 /* section-one end */
@@ -321,15 +313,7 @@ ol {
 /* section-two start */
 
 .section-two-title {
-  color: var(--navyblue);
-  background: var(--white);
-  text-align: center;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  margin-bottom: 72px;
+  display: none;
 }
 .section-two {
   padding-bottom: 120px;
@@ -337,6 +321,7 @@ ol {
 .section-two-list {
   display: flex;
   gap: 24px;
+  display: none;
 }
 
 /* section-two-end */
@@ -348,11 +333,12 @@ ol {
 }
 .three-list {
   display: flex;
-  gap: 24px;
+  flex-wrap: wrap;
+  gap: 72px;
 }
 /*.section-three-img {
   margin-bottom: 32px;
-}*/
+} be deleted*/
 .section-three-title {
   color: var(--navyblue);
   text-align: center;
@@ -399,7 +385,7 @@ ol {
   width: 40px;
   height: 40px;
   /*transition: background-color 250ms
-    cubic-bezier(0.4, 0, 0.2, 1);*/
+    cubic-bezier(0.4, 0, 0.2, 1); be deleted*/
 }
 .team-link {
   display: flex;

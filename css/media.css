@@ -1,3 +1,4 @@
+/* Section one */
 @media screen and (min-width: 428px) {
   .container {
     max-width: 426px;
@@ -51,5 +52,24 @@
   .section-one {
     padding-top: 120px;
     padding-bottom: 120px;
+  }
+  .section-two-title {
+    color: var(--navyblue);
+    background: var(--white);
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    margin-bottom: 72px;
+    display: block;
+  }
+  .section-two {
+    padding-bottom: 120px;
+  }
+  .section-two-list {
+    display: flex;
+    gap: 24px;
   }
 }
