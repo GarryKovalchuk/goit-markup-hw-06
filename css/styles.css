@@ -72,6 +72,8 @@ ol {
 }
 .img {
   display: block;
+  max-width: 100%;
+  height: auto;
 }
 /* Header start */
 .header {
@@ -337,8 +339,8 @@ ol {
   gap: 72px;
 }
 /*.section-three-img {
-  margin-bottom: 32px;
-} be deleted*/
+  max-width: 264px;
+}*/
 .section-three-title {
   color: var(--navyblue);
   text-align: center;
