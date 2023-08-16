@@ -83,4 +83,10 @@
     display: flex;
     gap: 24px;
   }
+  .three-list {
+    max-width: 1128px;
+  }
+  .section-three-list {
+    flex-basis: calc((100% - 72px) / 4);
+  }
 }
