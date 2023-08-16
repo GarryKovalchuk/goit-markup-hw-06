@@ -20,6 +20,17 @@
   .section-one-item {
     width: 356px;
   }
+  .section-three-list {
+    flex-basis: calc((100% - 24px) / 2);
+  }
+
+  .three-list {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 552px;
+    margin: 0 auto;
+    gap: 64px 24px;
+  }
 }
 @media screen and (min-width: 1158px) {
   .container {

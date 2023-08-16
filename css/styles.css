@@ -380,6 +380,7 @@ ol {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
   flex-basis: 100%;
 }
+
 .team-list {
   display: flex;
   gap: 24px;
