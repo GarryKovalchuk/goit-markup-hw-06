@@ -97,4 +97,12 @@
   .section-three-list {
     flex-basis: calc((100% - 72px) / 4);
   }
+  .customers-item {
+    width: calc((100% - 120px) / 6);
+    width: 168px;
+    height: 88px;
+  }
+  .customers-list {
+    max-width: 1128px;
+  }
 }
