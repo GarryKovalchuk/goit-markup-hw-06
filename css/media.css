@@ -149,5 +149,13 @@
   .box-form {
     display: flex;
     justify-content: left;
+    padding-left: 80px;
+  }
+  .ftr-one-item {
+    display: inline-block;
+    padding: 0%;
+  }
+  .box-ftr {
+    padding-left: 120px;
   }
 }
