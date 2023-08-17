@@ -514,6 +514,7 @@ ol {
 .ftr-list {
   display: flex;
   gap: 16px;
+  text-align: center;
 }
 .ftr-icon {
   fill: var(--cloud);
