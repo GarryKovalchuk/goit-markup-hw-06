@@ -17,6 +17,9 @@
   .ftr-social-text {
     margin-top: 72px;
   }
+  .ftr-logo {
+    justify-content: center;
+  }
 }
 @media screen and (min-width: 768px) {
   .container {
