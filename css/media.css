@@ -16,6 +16,7 @@
   }
   .ftr-social-text {
     margin-top: 72px;
+    text-align: center;
   }
   .ftr-logo {
     justify-content: center;
@@ -61,6 +62,16 @@
   }
   .box-form {
     display: block;
+    padding-left: 108px;
+  }
+  .ftr-social-text {
+    text-align: left;
+  }
+  .box-ftr {
+    margin-left: 24px;
+  }
+  .ftr-one-item {
+    margin: 0;
     padding-left: 108px;
   }
 }
