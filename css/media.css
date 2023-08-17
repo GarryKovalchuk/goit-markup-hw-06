@@ -74,6 +74,9 @@
     margin: 0;
     padding-left: 108px;
   }
+  .ftr-logo {
+    justify-content: left;
+  }
 }
 @media screen and (min-width: 1158px) {
   .container {
