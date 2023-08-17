@@ -56,6 +56,13 @@
   .customers-item {
     width: calc((100% - 48px) / 3);
   }
+  .footer-input {
+    width: 264px;
+  }
+  .box-form {
+    display: block;
+    padding-left: 108px;
+  }
 }
 @media screen and (min-width: 1158px) {
   .container {
