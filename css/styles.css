@@ -490,7 +490,8 @@ ol {
 }
 .ftr-logo {
   display: flex;
-  margin-bottom: 16px;
+  /*margin-bottom: 16px;*/
+  margin: 16px auto;
 }
 .footer-text {
   color: var(--cloud);
@@ -526,6 +527,7 @@ ol {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  margin-top: 72px;
   /*margin-right: 80px;*/
 }
 .ftr-link {
@@ -546,7 +548,8 @@ ol {
 .ftr-one-item {
   display: flex;
   flex-wrap: wrap;
-  margin-right: 120px;
+  /*margin-right: 120px;*/
+  justify-content: center;
 }
 .footer-form {
   display: flex;
