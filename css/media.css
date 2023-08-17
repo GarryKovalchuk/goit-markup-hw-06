@@ -143,4 +143,11 @@
   .customers-list {
     max-width: 1128px;
   }
+  .footer-container {
+    flex-wrap: nowrap;
+  }
+  .box-form {
+    display: flex;
+    justify-content: left;
+  }
 }
