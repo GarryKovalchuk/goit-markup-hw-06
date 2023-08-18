@@ -84,6 +84,14 @@
   .ftr-logo {
     justify-content: left;
   }
+  .section-main {
+    max-width: 766px;
+    background-image: linear-gradient(
+        rgba(46, 47, 66, 0.7),
+        rgba(46, 47, 66, 0.7)
+      ),
+      url(../images/hero-bg-pl.jpg);
+  }
 }
 @media screen and (min-width: 1158px) {
   .container {
