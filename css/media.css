@@ -21,6 +21,12 @@
   .ftr-logo {
     justify-content: center;
   }
+  .section-main {
+    max-width: 426px;
+  }
+  .sectoin-main-title {
+    font-size: 36px;
+  }
 }
 @media screen and (min-width: 768px) {
   .container {
