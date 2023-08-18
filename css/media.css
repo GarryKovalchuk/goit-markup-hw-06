@@ -26,6 +26,7 @@
   }
   .sectoin-main-title {
     font-size: 36px;
+    width: 320px;
   }
 }
 @media screen and (min-width: 768px) {
