@@ -791,7 +791,7 @@ ol {
 .modal {
   position: absolute;
   display: inline-block;
-  width: 408px;
+  width: 318px;
   min-height: 584px;
   border-radius: 4px;
   background: var(--dairy, #fcfcfc);
@@ -838,7 +838,7 @@ ol {
 .modal-title {
   color: var(--navyblue);
   text-align: center;
-  font-size: 16px;
+  font-size: 11px;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
@@ -921,7 +921,7 @@ ol {
 }
 .modal-check-text {
   color: var(--lightslate, #8e8f99);
-  font-size: 12px;
+  font-size: 9px;
   font-weight: 400;
   line-height: 1.17;
   letter-spacing: 0.04em;
