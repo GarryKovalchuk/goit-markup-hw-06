@@ -1002,6 +1002,10 @@ ol {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  transform: translateX(100%);
+}
+.mob-menu.is-open {
+  transform: translateX(0);
 }
 .menu-btn {
   display: flex;
