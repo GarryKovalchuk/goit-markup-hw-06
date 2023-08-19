@@ -1064,7 +1064,7 @@ ol {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .mobtel-list {
-  color: var(--slate);
+  color: var(--iris);
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -1073,7 +1073,7 @@ ol {
 }
 
 .modmail-list {
-  color: var(--slate);
+  color: #434455;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
