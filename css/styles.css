@@ -1072,7 +1072,7 @@ ol {
   text-transform: capitalize;
 }
 
-.modmail-list {
+.mailcolor {
   color: var(--slate);
   font-size: 20px;
   font-weight: 500;
