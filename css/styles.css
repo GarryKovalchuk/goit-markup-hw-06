@@ -1085,6 +1085,8 @@ ol {
   flex-shrink: 0;
 }
 .mobsoc-list {
-  display: flex;
-  gap: 16px;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 56px;
+  margin-top: 48px;
 }
