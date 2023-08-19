@@ -1014,5 +1014,24 @@ ol {
   background-color: #fff;
   border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
-  margin-bottom: 32px;
+  /*margin-bottom: 32px;*/
+  z-index: 30;
+}
+.mob-link {
+  color: var(--navyblue);
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+}
+.mob-link:hover,
+.mob-link:focus {
+  color: var(--ocean);
+}
+.mob-menu-list {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 80px;
 }
