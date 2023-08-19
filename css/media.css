@@ -121,6 +121,9 @@
   .modal {
     width: 408px;
   }
+  .menu-open-btn {
+    display: none;
+  }
 }
 @media screen and (min-width: 1158px) {
   .container {
