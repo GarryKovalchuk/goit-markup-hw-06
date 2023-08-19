@@ -225,6 +225,9 @@
   .box-ftr {
     padding-left: 120px;
   }
+  .ftr-logo {
+    justify-content: center;
+  }
   .section-main {
     max-width: 1158px;
     background-image: linear-gradient(
