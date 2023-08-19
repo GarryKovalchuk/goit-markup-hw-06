@@ -1043,15 +1043,16 @@ ol {
   gap: 40px;
 }
 .mobtel-list {
-  color: var(--iris, #4d5ae5);
+  color: var(--slate);
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+
 .modmail-list {
-  color: var(--slate, #434455);
+  color: var(--slate);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
