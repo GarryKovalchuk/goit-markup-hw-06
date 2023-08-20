@@ -225,10 +225,12 @@
   }
   .box-ftr {
     padding-left: 120px;
+    margin-left: 0;
   }
   .ftr-logo {
     justify-content: start;
-    margin: 0;
+    margin-bottom: 17.5px;
+}
   }
   .footer-form {
     flex-wrap: nowrap;
@@ -262,6 +264,7 @@
     display: flex;
     gap: 40px;
     margin-bottom: 0;
+    flex-direction: inherit;
   }
   .address-list,
   .address {
