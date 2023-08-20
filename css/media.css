@@ -130,8 +130,9 @@
     align-items: center;
   }
   .address-list {
-    display: block;
-    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
   }
   .address-list,
   .address {
@@ -236,7 +237,7 @@
     width: 264px;
   }
   .section-main {
-    max-width: 1158px;
+    max-width: 1440px;
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
