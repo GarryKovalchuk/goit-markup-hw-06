@@ -1012,8 +1012,11 @@ ol {
   align-items: center;
   justify-content: center;
   padding: 0;
-  border: 0;
-  background-color: #fff;
+  border: none;
+  background-color: transparent;
+  stroke-width: 3px;
+  stroke: var(--navyblue, #2e2f42);
+  fill: transparent;
 }
 .menu-close-mobil {
   position: absolute;

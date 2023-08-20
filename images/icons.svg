@@ -101,5 +101,8 @@
 <path d="M28 17h-24c-0.552 0-1-0.448-1-1s0.448-1 1-1v0h24c0.552 0 1 0.448 1 1s-0.448 1-1 1v0z"></path>
 <path d="M28 24h-24c-0.552 0-1-0.448-1-1s0.448-1 1-1v0h24c0.552 0 1 0.448 1 1s-0.448 1-1 1v0z"></path>
 </symbol>
+<symbol id="icon-burger1" viewBox="0 0 47 32">
+            <path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="4.3636" d="M1.96 29.154h42.965M1.96 15.615h42.965M1.96 2.077h42.965"></path>
+        </symbol>
   </defs>
 </svg>
