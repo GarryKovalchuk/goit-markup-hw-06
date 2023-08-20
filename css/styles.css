@@ -1051,7 +1051,6 @@ ol {
   margin-top: 80px;
 }
 .mobaddress-list {
-  margin-top: 284px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -1104,7 +1103,4 @@ ol {
   align-items: flex-start;
   gap: 56px;
   margin-top: 48px;
-}
-.space {
-  justify-content: space-between;
 }
