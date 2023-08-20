@@ -1026,6 +1026,7 @@ ol {
   stroke-width: 3px;
   stroke: var(--navyblue, #2e2f42);
   fill: transparent;
+  margin-top: 24px;
 }
 .menu-close-mobil {
   position: absolute;
