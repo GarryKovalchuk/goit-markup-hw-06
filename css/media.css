@@ -230,8 +230,8 @@
   .ftr-logo {
     justify-content: start;
     margin-bottom: 17.5px;
-}
   }
+
   .footer-form {
     flex-wrap: nowrap;
   }
@@ -264,7 +264,7 @@
     display: flex;
     gap: 40px;
     margin-bottom: 0;
-    flex-direction: inherit;
+    flex-direction: row;
   }
   .address-list,
   .address {
