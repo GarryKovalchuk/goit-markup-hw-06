@@ -229,6 +229,12 @@
     justify-content: center;
     margin: 0;
   }
+  .footer-form {
+    flex-wrap: nowrap;
+  }
+  .footer-text {
+    width: 264px;
+  }
   .section-main {
     max-width: 1158px;
     background-image: linear-gradient(
